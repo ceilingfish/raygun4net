@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31606.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindscape.Raygun4Net.NetCore", "Mindscape.Raygun4Net.NetCore\Mindscape.Raygun4Net.NetCore.csproj", "{3C195D62-104A-4D11-BB93-B03BE8CFB31C}"
 EndProject
@@ -14,6 +14,11 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindscape.Raygun4Net.AspNetCore2.Tests", "Mindscape.Raygun4Net.AspNetCore2.Tests\Mindscape.Raygun4Net.AspNetCore2.Tests.csproj", "{8A6000B2-EE9D-4220-8177-53D5F3655377}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindscape.Raygun4Net.AspNetCore2.Tests.TestLib", "Mindscape.Raygun4Net.AspNetCore2.Tests.TestLib\Mindscape.Raygun4Net.AspNetCore2.Tests.TestLib.csproj", "{8E625850-1EE9-43FE-951C-49229FB584F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FE50466-EE97-46D1-8BCF-E360AA3FC11B}"
+	ProjectSection(SolutionItems) = preProject
+		StyleCop.ruleset = StyleCop.ruleset
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
